@@ -19,7 +19,7 @@ Using this application, you can:
 ![Architecture Diagram](SAP-SuccessFactors-Employee-Onboarding.png)
 
 ## Prerequisites
-
+ 
 There are several components and authorizations that you and/or your team members need.
 
 **Tools**
